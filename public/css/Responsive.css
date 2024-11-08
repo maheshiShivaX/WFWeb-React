@@ -1,0 +1,490 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*---For Laptop---*/
+@media (max-width: 1800px) {
+    .border_line{
+        width: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 1550px) {}
+
+@media(min-width:1200px) {}
+
+@media(max-width:1440px) {}
+
+/*---For Laptop---*/
+@media (min-width: 1200px) and (max-width: 1400px) {
+    .shoppingmade_bg {
+        width: 100% !important;
+    }
+
+    .monthly_box {
+        width: 353px !important;
+    }
+
+    .border_line {
+        width: 300px !important;
+    }
+
+    .monthly_box_wepper {
+        gap: 20px !important;
+    }
+
+    .monthly_inner a {
+        margin: 20px auto 0 !important;
+    }
+
+    .customersay_inner_box {
+        width: 100% !important;
+    }
+
+    .gas_box {
+        width: 100% !important;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1199px) {
+    .shoppingmade_bg {
+        width: 100% !important;
+    }
+
+    .gas_box {
+        width: 100% !important;
+    }
+
+    .customersay_inner_box {
+        width: 100% !important;
+    }
+
+    .header .nav-link {
+        margin: 0px 4px !important;
+
+    }
+
+    .monthly_box {
+        width: 291px !important;
+    }
+
+    .border_line {
+        width: 100% !important;
+        margin-bottom: 10px !important;
+    }
+    .price_wrapper{
+        align-items: baseline !important;
+    }
+
+    .price_wrapper{
+        margin-bottom:0 !important ;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1024px) {
+    .shoppingmade_bg {
+        width: 100% !important;
+    }
+
+    .gas_box {
+        width: 100% !important;
+    }
+
+    .customersay_inner_box {
+        width: 100% !important;
+    }
+
+    .header .nav-link {
+        margin: 0px 4px !important;
+
+    }
+
+    .monthly_box {
+        width: 291px !important;
+    }
+
+    .border_line {
+        width: 100% !important;
+    }
+}
+
+@media (max-width: 1199px) {}
+
+
+/*---For Horizental iPad---*/
+@media (min-width: 992px) and (max-width: 1199px) {}
+
+@media (min-width: 991px) {}
+
+@media (min-width: 768px) {}
+
+/*---For Vertical iPad---*/
+@media (min-width: 768px) and (max-width: 991px) {
+    .banner_content h1 {
+        width: 100% !important;
+        font-size: 45px !important;
+    }
+
+    .banner_inner1 {
+        display: none;
+    }
+}
+
+
+@media (max-width: 991px) {
+    .offcanvas-body .align-items-center {
+        align-items: start !important;
+    }
+
+    .header .nav-link.active,
+    .header .nav-link {
+        color: #000 !important;
+        margin: 0px 0px !important;
+        text-align: start;
+    }
+
+    .header .nav-item {
+        padding: 14px 0px;
+        border-bottom: 1px solid #8080803d;
+        width: 100%;
+        text-align: start;
+    }
+
+    .login_header {
+        margin-top: 20px;
+    }
+
+    .login_header a {
+        color: #000 !important;
+    }
+
+    .login_header .menu_block {
+        color: #fff !important;
+    }
+
+    .navbar-light .navbar-toggler {
+        background-color: unset;
+        border: unset;
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background-image: unset !important;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: unset;
+    }
+
+    .btn-close:focus {
+        box-shadow: unset;
+    }
+
+
+    .shoppingmade_bg {
+        width: 100% !important;
+    }
+
+    .banner_box_inner img {
+        width: 20% !important;
+    }
+
+    .our_esteemed_box {
+        width: 100% !important;
+    }
+
+    .get_most_box {
+        width: 100% !important;
+        justify-content: center !important;
+    }
+
+    .our_esteemed_box1 {
+        width: 100% !important;
+
+    }
+
+    .our_esteemed_box1 img {
+        width: unset !important;
+    }
+
+    .our_services_wepper {
+        padding: 120px 20px !important;
+    }
+
+    .gas_box {
+        width: 100% !important;
+    }
+
+    .monthly_box_wepper {
+        display: block !important;
+    }
+
+    .monthly_box {
+        width: 100% !important;
+        margin-bottom: 90px !important;
+    }
+
+    .monthly_box.active {
+        width: 100% !important;
+    }
+
+
+
+    .customersay_inner_wepper {
+        width: 100% !important;
+        display: block !important;
+    }
+
+    .customersay_inner_box.active {
+        width: 100% !important;
+    }
+
+    .customersay_inner_box {
+        width: 100% !important;
+    }
+
+    .register_box {
+        width: 100% !important;
+    }
+
+    .about_wepper {
+        padding-bottom: 40px !important;
+    }
+
+    .shoppingmade_center img {
+        width: unset !important;
+    }
+
+    .shoppingmade_right_side_img {
+        display: none !important;
+    }
+
+    .shoppingmade_left_side_img {
+        display: none !important;
+    }
+
+    .gas_box p {
+        width: unset !important;
+        margin: auto !important;
+        font-size: 15px !important;
+    }
+
+    .compliance_box {
+        height: unset !important;
+    }
+
+    .compliance_box h3 {
+        font-size: 20px !important;
+    }
+
+    .compliance_box img {
+        width: 30px !important;
+    }
+}
+
+/*---For Mobile---*/
+@media (max-width: 767px) {
+    .banner_content h1 {
+        width: 100% !important;
+        font-size: 25px !important;
+    }
+
+    .our_esteemed_box1 {
+        width: 100% !important;
+        height: 289.402px !important;
+        justify-content: center !important;
+    }
+
+    .get_most_box {
+        height: 289.402px !important;
+    }
+
+    .banner_inner1 {
+        display: none;
+    }
+
+    .our_services_hedding {
+        margin-bottom: 80px;
+    }
+
+    .customersay_inner_box_wepper {
+        margin-bottom: 30px;
+    }
+
+    .register_box {
+        border-radius: 50px !important;
+        margin-top: 30px;
+    }
+
+    .managebusiness_hedding p {
+        width: 100% !important;
+    }
+
+    .footer_hedding {
+        margin-bottom: 30px;
+    }
+
+    .footer_logo {
+        text-align: start;
+    }
+
+    .banner_box_inner {
+        display: block !important;
+        column-count: 2;
+        padding: 0 30px;
+    }
+
+    .our_esteemed_box {
+        margin-top: 0 !important;
+        margin-bottom: 30px;
+    }
+
+    .our_esteemed_box1 {
+        margin-top: 0 !important;
+    }
+
+    .years_box {
+        overflow: hidden;
+    }
+}
+
+@media (max-width:576px) {
+    .shoppingmade_center img {
+        width: 100% !important;
+    }
+
+    .border_line {
+        width: 100% !important;
+    }
+
+    .shoppingmade_content h2 {
+        font-size: 30px !important;
+    }
+
+    .shoppingmade_content p {
+
+        width: 100% !important;
+    }
+
+    .shoppingmade_content_btn,
+    .shoppingmade_content p,
+    .banner_btn_wepper {
+        padding: 0 20px;
+    }
+
+    .business_model_hedding h2 {
+        font-size: 30px !important;
+    }
+
+    .our_services_wepper {
+        padding: 41px 20px !important;
+    }
+
+    .our_services_hedding h3 {
+        font-size: 30px !important;
+    }
+
+    .our_services_hedding span {
+        font-size: 16px !important;
+    }
+
+    .our_services_wepper .row {
+        margin-bottom: 0 !important;
+    }
+
+    .privacy_hedding h3 {
+        font-size: 30px !important;
+    }
+
+    .billing_perfected_hedding p {
+        font-size: 20px !important;
+    }
+
+    .billing_perfected_hedding h2 {
+        font-size: 30px !important;
+    }
+
+    .billing_perfected_hedding h2 {
+        margin-bottom: 25px !important;
+    }
+
+    .transparent_priceh h2 {
+        font-size: 30px !important;
+        margin-bottom: 50px !important;
+    }
+
+    .customersay_hedding h2 {
+        font-size: 30px !important;
+    }
+
+    .customersay_wepper {
+        padding: 30px 0 !important;
+    }
+
+    .managebusiness_hedding h2 {
+        font-size: 30px !important;
+    }
+
+    .register_box {
+        font-size: 40px !important;
+    }
+
+    .banner_btn_wepper ul,
+    .shoppingmade_content_btn ul {
+        display: block !important;
+    }
+
+    .banner_btn_wepper a,
+    .shoppingmade_content_btn a {
+        width: 100% !important;
+        margin-bottom: 20px !important;
+    }
+
+    .monthly_inner a {
+        margin: 20px auto 0 !important;
+    }
+
+    .footer_hedding h2 {
+        margin-bottom: 6px !important;
+        margin-top: 39px !important;
+    }
+
+    .about_wepper,
+    .shoppingmade_bg,
+    .monthly_box.active {
+        border-radius: 10px !important;
+    }
+
+    .copy_right p {
+        font-size: 12px !important;
+    }
+}
+
+@media (max-width: 513px) {}
+
+@media (max-width: 462px) {}
+
+@media (max-width: 480px) {
+    .banner_box_inner {
+        column-count: 1 !important;
+    }
+
+
+    .our_esteemed_box1 {
+        margin-bottom: 30px;
+    }
+
+    .about_wepper {
+        margin-top: 400px !important;
+    }
+}
+
+@media (max-width: 425px) {}
+
+@media (max-width: 414px) {}
+
+@media (max-width: 320px) {}
+
+@media (max-width: 395px) {}
+
+@media (max-width: 375px) {}
+
+@media (max-width: 342px) {}

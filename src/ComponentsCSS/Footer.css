@@ -1,0 +1,46 @@
+.footer {
+    border-radius: 100px 100px 0px 0px;
+    background: #373737;
+    padding: 40px 0;
+}
+
+.footer_hedding h2 {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%;
+    text-transform: uppercase;
+    margin-bottom: 14px;
+}
+
+.footer_hedding {
+    text-align: start;
+}
+
+.footer_hedding ul li a,
+.footer_hedding ul li {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 200%;
+    opacity: 0.7;
+}
+
+.footer_hedding ul li a:hover {
+    color: #C53355;
+}
+
+.copy_right p {
+    color: #FFF;
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 23.322px;
+    margin-top: 80px;
+}

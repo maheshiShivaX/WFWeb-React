@@ -1,0 +1,49 @@
+.about_wepper {
+    border-radius: 100px;
+    background: #E8E8E8;
+    width: 100%;
+    height: 100%;
+    margin-top: -245px;
+}
+
+.about_wepper .row {
+    padding-top: 350px;
+}
+
+.about_hedding {
+    text-align: start;
+    margin-top: 30px;
+}
+
+.about_hedding h3 {
+    color: #474747;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.about_hedding h3 span {
+    margin-left: 8px;
+}
+
+.about_hedding h2 {
+    background: linear-gradient(97deg, #C53355 -6.53%, #6F35A9 89.29%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    width: 80%;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.about_hedding p {
+    color: #474747;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    opacity: 0.6;
+}

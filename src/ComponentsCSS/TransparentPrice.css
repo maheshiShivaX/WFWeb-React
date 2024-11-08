@@ -1,0 +1,125 @@
+.transparent_price {
+    background: #1F1F1F !important;
+    padding: 0 0 100px;
+}
+
+.transparent_priceh p {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.transparent_priceh h2 {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 100px;
+}
+.monthly_box_wepper{
+    display: flex;
+    gap: 50px;
+}
+
+.monthly_box {
+    text-align: start;
+    width: 413px;
+    height: 377.643px;
+}
+
+.monthly_box h4 {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    margin-bottom: 25px;
+    margin-left: 22px;
+}
+
+.border_line {
+    background: rgba(255, 255, 255, 0.60);
+    width: 413px;
+    height: 1px;
+    margin-bottom: 64px;
+}
+
+.price_wrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 86px;
+}
+
+.dollar {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 51.357px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    margin-right: 12px;
+}
+
+.price_wrapper p {
+    font-size: 45px !important;
+    opacity: 1 !important;
+    font-weight: 700 !important;
+}
+
+.price_wrapper p span {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 100%;
+    opacity: 0.52;
+}
+
+.monthly_inner p {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    opacity: 0.52;
+}
+
+.monthly_inner a {
+    width: 190.814px;
+    height: 46.643px;
+    border-radius: 23.322px;
+    background: linear-gradient(83deg, #C53355 -2.69%, #6F35A9 108.44%);
+    color: #FFF;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 44px;
+    display: block;
+    margin: 45px auto 0;
+    text-align: center;
+   
+}
+
+.monthly_inner a:hover {
+    background: linear-gradient(83deg, #6F35A9 -2.69%, #C53355 108.44%);
+}
+
+.monthly_box.active {
+    border-radius: 65px;
+    border: 2px solid rgba(255, 255, 255, 0.72);
+    background: rgba(217, 217, 217, 0.13);
+    backdrop-filter: blur(23.100000381469727px);
+    width: 462px;
+    height: 475px;
+    padding: 30px;
+    margin-top: -32px;
+}

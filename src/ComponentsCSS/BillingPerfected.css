@@ -1,0 +1,69 @@
+.BillingPerfected_wepper {
+    background: #1F1F1F;
+    padding: 0 0 100px;
+    position: relative;
+    z-index: 1;
+}
+
+.billing_perfected_hedding {
+    text-align: start;
+}
+
+.billing_perfected_hedding p {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    opacity: 0.71;
+    margin-bottom: 10px;
+}
+
+.billing_perfected_hedding h2 {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 70px;
+}
+
+.compliance_box {
+    border-radius: 20px;
+    border: 2px solid rgba(255, 255, 255, 0.72);
+    background: rgba(217, 217, 217, 0.13);
+    backdrop-filter: blur(23.100000381469727px);
+    width: 100%;
+    height: 271px;
+    padding: 30px;
+    text-align: start;
+    margin-bottom: 30px;
+}
+
+.compliance_box img {
+    margin-bottom: 26px;
+}
+
+.compliance_box h3 {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    opacity: 0.9;
+    margin-bottom: 10px;
+}
+
+.compliance_box p {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    opacity: 0.71;
+    width: 96%;
+}

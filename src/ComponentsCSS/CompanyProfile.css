@@ -1,0 +1,37 @@
+.company_profile_heading {
+    font-size: 20px;
+    font-weight: 700;
+    font-style: italic;
+    margin: 25px 0;
+    color: #B3163B;
+}
+
+.company_details {
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.profile_content {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.edit_button button {
+    background: #641b8000;
+    border: none;
+    color: #a1174a;
+    font-weight: 600;
+}
+
+.login_form_box {
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.form_close_btn {
+    display: flex;
+    justify-content: start;
+}

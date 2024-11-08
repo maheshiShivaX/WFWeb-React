@@ -1,0 +1,116 @@
+.bg_login_wepper {
+    background-image: url(../../../../public/images/login-bg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.login-card {
+    background-color: #fff;
+    float: none;
+    margin: auto;
+    box-shadow: 0 1px 15px rgba(0, 0, 0, .04), 0 1px 6px rgba(0, 0, 0, .04);
+    margin-top: 50px;
+    margin-bottom: 5%;
+}
+
+.detail-part {
+    padding: 30px;
+    background-size: 100%;
+}
+
+.detail-part h2 {
+    color: #fff;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.detail-part p {
+    color: #fff;
+    font-size: 18px;
+}
+
+.logn-part {
+    padding: 30px;
+}
+
+.logo-cover {
+    text-align: start;
+}
+
+.form-cover {
+    text-align: start;
+}
+
+.form-cover h3 {
+    font-size: 20px;
+    font-weight: 700;
+    font-style: italic;
+    margin: 25px 0;
+    color: #B3163B;
+}
+
+.form-title p {
+    margin: 7px 0 10px;
+    color: #1c1c1c;
+}
+
+.from-box input {
+    background-color: #fff;
+    border: 1px solid #ced4da !important;
+    transition: .5s;
+    border: 0;
+    padding: 7px 15px;
+    display: block;
+    width: 100%;
+    color: #00132b;
+    margin-bottom: 16px;
+    font-weight: 400;
+    position: relative;
+    z-index: 1;
+    height: 48px;
+    margin: 0;
+}
+
+.from-box input:focus {
+    outline-color: transparent;
+    box-shadow: 0 0 0 0.2rem #B3163B;
+    border-color: transparent;
+}
+
+.login_btn {
+    padding: 30px 0 0px;
+}
+
+
+
+.btn_logn_inner {
+    width: 100%;
+    border: unset;
+    height: 44px;
+    font-size: 16px;
+    border-radius: 22px;
+    background: linear-gradient(83deg, #B3163B -2.69%, #551C8D 108.44%);
+    display: block;
+    line-height: 42px;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 30px;
+}
+
+.btn_logn_inner:hover {
+    background: linear-gradient(83deg, #551C8D -2.69%, #B3163B 108.44%);
+}
+
+.login_btn a {
+    font-size: 18px;
+    padding-bottom: 5px;
+    color: #B3163B;
+}
+

@@ -1,0 +1,135 @@
+.business_model_wepper {
+    position: relative;
+    z-index: 1;
+}
+
+.business_model_hedding h2 {
+    color: #444;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+.business_model_hedding p {
+    color: #2E2E2E;
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 23.322px;
+    margin-bottom: 50px;
+}
+
+.our_services_wepper {
+    background: #1F1F1F;
+    padding: 120px 80px;
+    overflow: hidden;
+}
+
+.our_services_wepper .row{
+    margin-bottom: 60px;
+}
+
+.our_services_hedding p {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 23.322px;
+    opacity: 0.7;
+    text-align: start;
+    margin-bottom: 8px;
+}
+
+.our_services_hedding h3 {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: start;
+    margin-bottom: 8px;
+}
+
+.our_services_hedding span {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    opacity: 0.84;
+    margin-bottom: 30px;
+    display: block;
+    text-align: start;
+}
+
+.our_services_hedding a {
+    width: 190.814px;
+    height: 46.643px;
+    border-radius: 23.322px;
+    background: linear-gradient(83deg, #C53355 -2.69%, #6F35A9 108.44%);
+    display: block;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 42px;
+}
+
+.our_services_hedding a:hover {
+    background: linear-gradient(83deg, #6F35A9 -2.69%, #C53355 108.44%);
+    color: #FFF;
+}
+
+.gas_box {
+    width: 242px;
+    height: 161px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: #EAEAEA;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 66px;
+}
+
+.gas_box img {
+    margin-top: -50px;
+    margin-bottom: 13px;
+}
+
+.gas_box p {
+    color: #4D4D4D;
+    text-align: center;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    width: 50%;
+    margin: auto;
+    line-height: 23.322px;
+}
+
+.privacy_hedding h3 {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 62.685px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+
+
+

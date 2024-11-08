@@ -1,0 +1,50 @@
+.package_wrapper {
+    margin-top: 50px;
+}
+
+.package_wrapper .package_content .package_box {
+    background: #212121;
+    color: #fff;
+    padding: 20px 10px;
+    border: 2px solid #6e1b78;
+    border-radius: 10px;
+}
+
+.package_wrapper .package_content .package_box {
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.package_wrapper .package_content .package_box.selected {
+    background-color: #212121;
+    color: white;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    transform: scale(1.1);
+    border: 3px solid #6e1b78;
+    z-index: 1;
+}
+
+.package_wrapper .package_content .package_box p {
+    font-size: 14px;
+    text-align: start;
+    word-break: break-word;
+}
+
+.package_wrapper .package_content .package_box h3 {
+    font-weight: 700;
+}
+
+.procced_to_pay_btn button {
+    font-size: 16px;
+    border-radius: 22px;
+    background: linear-gradient(83deg, #B3163B -2.69%, #551C8D 108.44%);
+    display: block;
+    margin-left: 20px;
+    line-height: 42px;
+    color: #FFF;
+    font-family: Montserrat;
+    font-weight: 500;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: none;
+    padding: 0 15px;
+}

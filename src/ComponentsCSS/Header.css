@@ -1,0 +1,102 @@
+.header.on-scroll {
+    display: block;
+    background-color: #232323;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    position: sticky;
+    animation: smoothScroll 1s;
+    width: 100%;
+
+}
+
+@keyframes smoothScroll {
+    0% {
+        transform: translateY(-40px);
+    }
+
+    100% {
+        transform: translateY(0px);
+    }
+}
+
+
+/* main style */
+.header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    transition: all 0.35s ease;
+    background: #212121;
+}
+
+.header .nav-link.active {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.header .nav-link.active:hover {
+    color: #B3163B !important;
+}
+
+.header .nav-link {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin: 0px 18px;
+    line-height: normal;
+    padding: 0;
+}
+
+.header .nav-link:hover {
+    color: #B3163B !important;
+}
+
+.login_header {
+    display: flex;
+    align-items: center;
+}
+
+.login_header button {
+    background-color: transparent;
+    border: none;
+}
+
+.login_header a,.login_header span {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.login_header a:hover {
+    color: #B3163B !important;
+}
+
+.login_header .menu_block {
+    width: 160px;
+    height: 44px;
+    font-size: 16px;
+    border-radius: 22px;
+    background: linear-gradient(83deg, #B3163B -2.69%, #551C8D 108.44%);
+    display: block;
+    margin-left: 20px;
+    line-height: 42px;
+}
+
+.login_header .menu_block:hover {
+    background: linear-gradient(83deg, #551C8D -2.69%, #B3163B 108.44%);
+    color: #FFF !important;
+}

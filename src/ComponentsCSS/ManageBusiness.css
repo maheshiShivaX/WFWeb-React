@@ -1,0 +1,72 @@
+.managebusiness_wepper {
+    background: #F3F3F3;
+    padding: 50px 0;
+}
+
+.managebusiness_hedding h2 {
+    color: #444;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+.managebusiness_hedding p {
+    color: #2E2E2E;
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 23.322px;
+    opacity: 0.7;
+    margin: auto;
+    width: 27%;
+}
+
+.managebusiness_wepper .row {
+    margin-top: 51px;
+}
+
+.register_box {
+    width: 322px;
+    height: 451px;
+    border-radius: 181px;
+    background: linear-gradient(117deg, #C53355 21.26%, #6F35A9 85.17%), #D9D9D9;
+    box-shadow: 0px 4px 12.1px 0px rgba(0, 0, 0, 0.25) inset;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: auto;
+}
+
+.register_box h2 {
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+.register_box .month_free {
+    border-radius: 25px;
+    border: 1px solid #FFF;
+    width: 239px;
+    height: 34px;
+    display: block;
+    color: #FFF;
+    text-align: center;
+    font-family: Lato;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    margin-bottom: 39px;
+}
